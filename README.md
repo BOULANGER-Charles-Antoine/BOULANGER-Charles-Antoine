@@ -49,4 +49,4 @@ int main() {
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=BOULANGER-Charles-Antoine)
