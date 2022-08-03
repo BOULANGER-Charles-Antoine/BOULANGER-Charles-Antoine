@@ -48,3 +48,5 @@ int main() {
 ```
 
 This site was built using [GitHub Pages](https://pages.github.com/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BOULANGER-Charles-Antoine.BOULANGER-Charles-Antoine&left_color=green&right_color=red)
