@@ -24,3 +24,27 @@ Here are some ideas to get you started:
 ##### Fifth largest heading
 ###### Smallest heading
 ####### Test
+
+**Bold Text**
+*Italic Text*
+~~Strikethrough Text~~
+<sub> Subscript text </sub>
+<sup> Superscript text </sup>
+> quote text
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+C++
+```C++
+int main() {
+  std::cout << "Hello World";
+  
+  return 0;
+}
+```
+
+This site was built using [GitHub Pages](https://pages.github.com/)
