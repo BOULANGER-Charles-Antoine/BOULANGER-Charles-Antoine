@@ -49,6 +49,12 @@ int main() {
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
-![](https://komarev.com/ghpvc/?username=BOULANGER-Charles-Antoine)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BOULANGER-Charles-Antoine&theme=discord&margin-w=30">
+  </br>
+  <img src="https://s11.flagcounter.com/count2/k1vv/bg_DBDBDB/txt_000000/border_000000/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0">
+</p>
 
-<a href="https://info.flagcounter.com/k1vv"><img src="https://s11.flagcounter.com/count2/k1vv/bg_DBDBDB/txt_000000/border_000000/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
+
+
+
