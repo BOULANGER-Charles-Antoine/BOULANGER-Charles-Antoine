@@ -48,6 +48,7 @@ int main() {
 ```
 
 This site was built using [GitHub Pages](https://pages.github.com/)
+<img align="right" alt="GIF" src="Images/Gif_GameDev.gif" width="360px"/>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="Images/us_flag.png" height="13"> English</a></td></tr>
