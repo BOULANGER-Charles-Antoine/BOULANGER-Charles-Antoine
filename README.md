@@ -49,10 +49,20 @@ int main() {
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
+<table align="right">
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
+ 
+ 
+ 
+</table>
+
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BOULANGER-Charles-Antoine&theme=discord&margin-w=30">
   </br>
-  <img src="https://s11.flagcounter.com/count2/k1vv/bg_DBDBDB/txt_000000/border_000000/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0">
+  <img src="https://s11.flagcounter.com/count2/k1vv/bg_DBDBDB/txt_000000/border_000000/columns_8/maxflags_32/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0">
 </p>
 
 
