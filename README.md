@@ -58,10 +58,10 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=BOULANGER-Charles-Antoine&count_private=true&show_icons=true&theme=discord_old_blurple)
 
 <a href="https://github.com/BOULANGER-Charles-Antoine/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=github-readme-stats&theme=discord_old_blurple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=github-readme-stats&theme=discord_old_blurple&show_owner=true" />
 </a>
 <a href="https://github.com/BOULANGER-Charles-Antoine/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=OpenClassroomCours&theme=discord_old_blurple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=OpenClassroomCours&theme=discord_old_blurple&show_owner=true" />
 </a>
 
 <p align="center">
