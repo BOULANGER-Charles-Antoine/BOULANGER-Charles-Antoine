@@ -52,12 +52,17 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 <table align="right">
  <tr><td><a href="README.md"><img src="Images/us_flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="Images/fr_flag.png" height="13"> Français</a></td></tr>
- 
- 
- 
 </table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOULANGER-Charles-Antoine&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=BOULANGER-Charles-Antoine&count_private=true&show_icons=true&theme=discord_old_blurple)
 
+<a href="https://github.com/BOULANGER-Charles-Antoine/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=github-readme-stats&theme=discord_old_blurple" />
+</a>
+<a href="https://github.com/BOULANGER-Charles-Antoine/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=OpenClassrooms&theme=discord_old_blurple" />
+</a>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BOULANGER-Charles-Antoine&theme=discord&margin-w=30">
