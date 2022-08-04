@@ -61,7 +61,7 @@ This site was built using [GitHub Pages](https://pages.github.com/)
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=github-readme-stats&theme=discord_old_blurple" />
 </a>
 <a href="https://github.com/BOULANGER-Charles-Antoine/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=OpenClassrooms&theme=discord_old_blurple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=OpenClassroomCours&theme=discord_old_blurple" />
 </a>
 
 <p align="center">
