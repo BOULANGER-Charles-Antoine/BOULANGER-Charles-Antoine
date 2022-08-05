@@ -1,11 +1,12 @@
 ## Hello there ! 👋
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<!-- Source
+  - Gif : https://storyset.com
+  - Markdown badge : https://github.com/Ileriayo/markdown-badges
+  - Stats Github/Most used languages/Pinned repo : https://github.com/anuraghazra/github-readme-stats
+  - Github profile trophy : https://github.com/ryo-ma/github-profile-trophy
+  - Visitor counter : https://flagcounter.com
+  - Emoji : https://emojipedia.org
 -->
 
   <table align="right">
@@ -26,13 +27,13 @@
 
   I'm Charles-Antoine BOULANGER, and I'm currently studying computer engineering at EILCO (École d'Ingénieurs du Littoral-Côte-d'Opale). So I'm from France and will soon live in Montréal to follow, in a double degree, a master's degree in computer science specialized in video games at the University of Sherbrooke.
   
-  - 🎮 Passionnate in video games, by playing 
-  - and making them
-  - 🖥️ I’m currently learning C#
+  - 🎮 Passionate about video games, whether playing them
+  - 😉 Or creating them
+  - 🖥️ I’m currently learning Unity
   - 👨‍💻 Most of my projects are available on Github
-  - 📝 Checkout my resume
-  - 📫 linkedIn
-  - 🎯 When I am free, I read fantasy and fiction novels.
+  - 📝 Checkout my <a href="https://drive.google.com/file/d/1hSclHWK6JZbwt2zrS9a7Ukm36k0vUzTw/view?usp=sharing">resume</a>
+  - 🎯 When I am free, I do archery.
+  <br>
  
 ---
 
@@ -50,7 +51,6 @@
   ![PHP](https://img.shields.io/badge/php-★★★-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-★★★-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
 ---
 
 ## 🛠️ OS / Tools
@@ -61,6 +61,11 @@
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&style=flat&logo=stack-overflow&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+  
+  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+  ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+  ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 
 ---
 
@@ -76,34 +81,25 @@
 ---
 
 ## 📈 Github Statistics
-  
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOULANGER-Charles-Antoine&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
-  ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=BOULANGER-Charles-Antoine&count_private=true&show_icons=true&theme=discord_old_blurple)-->
-  
-  <p align="center">
-    <!-- Favorite langages and Github stats -->
+
+  <div align="center">
+    <!-- Favorite languages and Github stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOULANGER-Charles-Antoine&theme=discord_old_blurple">
     <img src="https://github-readme-stats.vercel.app/api?username=BOULANGER-Charles-Antoine&count_private=true&show_icons=true&theme=discord_old_blurple"> <br><br>
     <!-- Github Profile Trophy -->
     <img src="https://github-profile-trophy.vercel.app/?username=BOULANGER-Charles-Antoine&theme=discord&margin-w=30"><br><br>
     <!-- Pinned Repositories -->
-    <a href="https://github.com/BOULANGER-Charles-Antoine/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=github-readme-stats&theme=discord_old_blurple&show_owner=true" />
+    <a href="https://github.com/BOULANGER-Charles-Antoine/Cryptage_SDES">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Cryptage_SDES&theme=discord_old_blurple&show_owner=true" />
     </a>
     <a href="https://github.com/BOULANGER-Charles-Antoine/convoychat">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=OpenClassroomCours&theme=discord_old_blurple&show_owner=true" />
-    </a><br><!--<br>
-    <a href="https://github.com/BOULANGER-Charles-Antoine/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=github-readme-stats&theme=discord_old_blurple&show_owner=true" />
-    </a>
-    <a href="https://github.com/BOULANGER-Charles-Antoine/convoychat">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=OpenClassroomCours&theme=discord_old_blurple&show_owner=true" />
-    </a>
-    -->
-  </p>
+    </a><br>
+  </div>
 
  ---
 
-<p align="center">
+<!-- Visitor counter -->
+<div align="center">
   <img src="https://s11.flagcounter.com/count2/k1vv/bg_DBDBDB/txt_000000/border_000000/columns_8/maxflags_32/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0">
-</p>
+</div>
