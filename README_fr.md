@@ -93,7 +93,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Cryptage_SDES&theme=discord_old_blurple&show_owner=true" />
     </a>
     <a href="https://github.com/BOULANGER-Charles-Antoine/convoychat">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=OpenClassroomCours&theme=discord_old_blurple&show_owner=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Blackjack&theme=discord_old_blurple&show_owner=true" />
     </a><br>
   </div>
 
