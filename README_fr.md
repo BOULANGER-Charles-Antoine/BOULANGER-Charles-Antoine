@@ -102,4 +102,7 @@
 <!-- Compteur de visiteur -->
 <div align="center">
   <img src="https://s11.flagcounter.com/count2/k1vv/bg_DBDBDB/txt_000000/border_000000/columns_8/maxflags_32/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/{BOULANGER-Charles-Antoine}/count.svg)
+  
 </div>
