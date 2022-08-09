@@ -85,6 +85,7 @@
   <div align="center">
     <!-- Favorite languages and Github stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOULANGER-Charles-Antoine&theme=discord_old_blurple">
+    &emsp;
     <img src="https://github-readme-stats.vercel.app/api?username=BOULANGER-Charles-Antoine&count_private=true&show_icons=true&theme=discord_old_blurple"> <br><br>
     <!-- Github Profile Trophy -->
     <img src="https://github-profile-trophy.vercel.app/?username=BOULANGER-Charles-Antoine&theme=discord&margin-w=30"><br><br>
@@ -92,12 +93,14 @@
     <a href="https://github.com/BOULANGER-Charles-Antoine/Cryptage_SDES">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=ChessGame&theme=discord_old_blurple&show_owner=true" />
     </a>
+    &emsp;
     <a href="https://github.com/BOULANGER-Charles-Antoine/Cryptage_SDES">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Cryptage_SDES&theme=discord_old_blurple&show_owner=true" />
     </a><br>
     <a href="https://github.com/BOULANGER-Charles-Antoine/convoychat">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Blackjack&theme=discord_old_blurple&show_owner=true" />
     </a>
+    &emsp;
     <a href="https://github.com/BOULANGER-Charles-Antoine/convoychat">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Spider-Solitaire&theme=discord_old_blurple&show_owner=true" />
     </a><br>
