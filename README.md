@@ -90,18 +90,18 @@
     <!-- Github Profile Trophy -->
     <img src="https://github-profile-trophy.vercel.app/?username=BOULANGER-Charles-Antoine&theme=discord&margin-w=30"><br><br>
     <!-- Pinned Repositories -->
-    <a href="https://github.com/BOULANGER-Charles-Antoine/Cryptage_SDES">
+    <a href="https://github.com/BOULANGER-Charles-Antoine/ChessGame">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=ChessGame&theme=discord_old_blurple&show_owner=true" />
     </a>
     &emsp;
     <a href="https://github.com/BOULANGER-Charles-Antoine/Cryptage_SDES">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Cryptage_SDES&theme=discord_old_blurple&show_owner=true" />
     </a><br>
-    <a href="https://github.com/BOULANGER-Charles-Antoine/convoychat">
+    <a href="https://github.com/BOULANGER-Charles-Antoine/Blackjack">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Blackjack&theme=discord_old_blurple&show_owner=true" />
     </a>
     &emsp;
-    <a href="https://github.com/BOULANGER-Charles-Antoine/convoychat">
+    <a href="https://github.com/BOULANGER-Charles-Antoine/Spider-Solitaire">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Spider-Solitaire&theme=discord_old_blurple&show_owner=true" />
     </a><br>
   </div>
