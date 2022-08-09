@@ -1,6 +1,0 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.26
-  with:
-    token: ${{ secrets.METRICS_TOKEN }}
-    plugin_isocalendar: yes
-    plugin_isocalendar_duration: full-year
