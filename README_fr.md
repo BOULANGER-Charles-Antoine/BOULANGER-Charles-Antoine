@@ -31,9 +31,7 @@
   - 😉 Ou en les codant.
   - 🖥️ J'apprends actuellement les fonctionnalités Unity.
   - 👨‍💻 La plupart de mes projets sont disponibles sur Github.
-  - 📝 N'hésitez pas à consulter mon <a href="https://drive.google.com/file/d/1hSclHWK6JZbwt2zrS9a7Ukm36k0vUzTw/view?usp=sharing" target="_blank"
-
-Source: https://prograide.com/pregunta/36555/markdown-ouvre-une-nouvelle-fenetre-lien>CV</a>.
+  - 📝 N'hésitez pas à consulter mon <a href="https://drive.google.com/file/d/1hSclHWK6JZbwt2zrS9a7Ukm36k0vUzTw/view?usp=sharing" target="_blank">CV</a>.
   - 🎯 Quand j'ai du temps libre, je pratique le tir à l'arc.
   <br>
  
