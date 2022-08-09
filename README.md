@@ -24,7 +24,7 @@
   
   ## 😃 About me
   <img align="right" alt="GIF" src="Images/Gif_GameDev.gif" width="300px"/>
-
+  
   I'm Charles-Antoine BOULANGER, and I'm currently studying computer engineering at EILCO (École d'Ingénieurs du Littoral-Côte-d'Opale). So I'm from France and will soon live in Montréal to follow, in a double degree, a master's degree in computer science specialized in video games at the University of Sherbrooke.
   
   - 🎮 Passionate about science and video games, whether playing them.
