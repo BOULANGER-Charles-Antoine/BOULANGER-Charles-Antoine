@@ -90,10 +90,16 @@
     <img src="https://github-profile-trophy.vercel.app/?username=BOULANGER-Charles-Antoine&theme=discord&margin-w=30"><br><br>
     <!-- Dépôts épinglés -->
     <a href="https://github.com/BOULANGER-Charles-Antoine/Cryptage_SDES">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Cryptage_SDES&theme=discord_old_blurple&show_owner=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=ChessGame&theme=discord_old_blurple&show_owner=true" />
     </a>
+    <a href="https://github.com/BOULANGER-Charles-Antoine/Cryptage_SDES">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Cryptage_SDES&theme=discord_old_blurple&show_owner=true" />
+    </a><br>
     <a href="https://github.com/BOULANGER-Charles-Antoine/convoychat">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Blackjack&theme=discord_old_blurple&show_owner=true" />
+    </a>
+    <a href="https://github.com/BOULANGER-Charles-Antoine/convoychat">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Spider-Solitaire&theme=discord_old_blurple&show_owner=true" />
     </a><br>
   </div>
 
@@ -102,7 +108,4 @@
 <!-- Compteur de visiteur -->
 <div align="center">
   <img src="https://s11.flagcounter.com/count2/k1vv/bg_DBDBDB/txt_000000/border_000000/columns_8/maxflags_32/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/{BOULANGER-Charles-Antoine}/count.svg)
-  
 </div>
