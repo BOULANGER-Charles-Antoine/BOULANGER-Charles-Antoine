@@ -25,7 +25,7 @@
   ## 😃 À propos de moi
   <img align="right" alt="GIF" src="Images/Gif_GameDev.gif" width="300px"/>
 
-  Je suis Charles-Antoine BOULANGER, et je suis actuellemnt élève-ingénieur informartique à l'EILCO (École d'Ingénieurs du Littoral-Côte-d'Opale). Je suis français et je vais prochainement habiter à Montréal pour réaliser un double diplôme avec une maîtrise en informatique cheminement jeux vidéo à l'université de Sherbrooke.
+  Je suis Charles-Antoine BOULANGER, et je suis actuellement élève-ingénieur informatique à l'EILCO (École d'Ingénieurs du Littoral-Côte-d'Opale). Je suis français et je vais prochainement habiter à Montréal pour réaliser un double diplôme avec une maîtrise en informatique cheminement jeux vidéo à l'université de Sherbrooke.
   
   - 🎮 Passionné de sciences et de jeux vidéo, que ce soit en y jouant,
   - 😉 Ou en les codant.
