@@ -31,7 +31,7 @@
   - 😉 Ou en les codant.
   - 🖥️ J'apprends actuellement les fonctionnalités Unity.
   - 👨‍💻 La plupart de mes projets sont disponible sur Github.
-  - 📝 N'hésitez pas à consulter mon <a href="https://drive.google.com/file/d/1hSclHWK6JZbwt2zrS9a7Ukm36k0vUzTw/view?usp=sharing">CV</a>.
+  - 📝 N'hésitez pas à consulter mon <a href="https://drive.google.com/file/d/1dX3RAeBv3gjTaG9tSJGfO1MGCWmJ3v2p/view?usp=sharing">CV</a>.
   - 🎯 Quand j'ai du temps libre, je pratique le tir à l'arc.
   <br>
  
