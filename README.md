@@ -31,7 +31,7 @@
   - 😉 Or coding them.
   - 🖥️ I’m currently learning Unity.
   - 👨‍💻 Most of my projects are available on Github.
-  - 📝 Checkout my <a href="https://drive.google.com/file/d/1hSclHWK6JZbwt2zrS9a7Ukm36k0vUzTw/view?usp=sharing">resume</a>.
+  - 📝 Checkout my <a href="https://drive.google.com/file/d/1dX3RAeBv3gjTaG9tSJGfO1MGCWmJ3v2p/view?usp=sharing">resume</a>.
   - 🎯 When I am free, I do archery.
   <br>
  
