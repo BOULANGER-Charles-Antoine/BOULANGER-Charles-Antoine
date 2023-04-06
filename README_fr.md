@@ -91,9 +91,9 @@
     <!-- Trophée profil Github -->
     <img src="https://github-profile-trophy.vercel.app/?username=BOULANGER-Charles-Antoine&theme=discord&margin-w=30"><br><br>
     <!-- Dépôts épinglés -->
-     <!--<a href="https://github.com/BOULANGER-Charles-Antoine/ChessGame">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=ChessGame&theme=discord_old_blurple&show_owner=true" />
-    </a>-->
+    <a href="https://github.com/BOULANGER-Charles-Antoine/ChessGame">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Need_For_Ski&theme=discord_old_blurple&show_owner=true" />
+    </a>
     &emsp;
     <a href="https://github.com/BOULANGER-Charles-Antoine/Cryptage_SDES">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Cryptage_SDES&theme=discord_old_blurple&show_owner=true" />
