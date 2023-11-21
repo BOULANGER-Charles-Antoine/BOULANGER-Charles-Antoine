@@ -25,11 +25,11 @@
   ## 😃 À propos de moi
   <img align="right" alt="GIF" src="Images/Gif_GameDev.gif" width="300px"/>
 
-  Je suis Charles-Antoine BOULANGER, et je suis actuellement élève-ingénieur informatique à l'EILCO (École d'Ingénieurs du Littoral-Côte-d'Opale). Je suis français et je vais prochainement habiter à Montréal pour réaliser un double diplôme avec une maîtrise en informatique cheminement jeux vidéo à l'université de Sherbrooke.
+  Je suis Charles-Antoine BOULANGER, et je suis actuellement programmeur stagiaire chez Behaviour Interactive à Montréal. Ce stage me permettra de valider mon double diplôme d'ingénieur informatique à l'EILCO (École d'Ingénieurs du Littoral-Côte-d'Opale) et de maîtrise en informatique cheminement jeux vidéo à l'université de Sherbrooke.
   
   - 🎮 Passionné de sciences et de jeux vidéo, que ce soit en y jouant,
   - 😉 Ou en les codant.
-  - 🖥️ J'apprends actuellement les fonctionnalités Unity.
+  - 🖥️ Actuellement mon projet personnel est un système d'Influence Map sous Unreal Engine.
   - 👨‍💻 La plupart de mes projets sont disponible sur Github.
   - 📝 N'hésitez pas à consulter mon <a href="https://drive.google.com/file/d/1dX3RAeBv3gjTaG9tSJGfO1MGCWmJ3v2p/view?usp=sharing">CV</a>.
   - 🎯 Quand j'ai du temps libre, je pratique le tir à l'arc.
@@ -41,7 +41,7 @@
 
   ![C](https://img.shields.io/badge/c-★★★★-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-★★-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-★★★★-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-★★★★★-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
   ![Java](https://img.shields.io/badge/java-★★★-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/python-★-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -91,15 +91,15 @@
     <!-- Trophée profil Github -->
     <img src="https://github-profile-trophy.vercel.app/?username=BOULANGER-Charles-Antoine&theme=discord&margin-w=30"><br><br>
     <!-- Dépôts épinglés -->
-    <a href="https://github.com/BOULANGER-Charles-Antoine/ChessGame">
+    <a href="https://github.com/BOULANGER-Charles-Antoine/Need_For_Ski">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Need_For_Ski&theme=discord_old_blurple&show_owner=true" />
     </a>
     &emsp;
     <a href="https://github.com/BOULANGER-Charles-Antoine/Cryptage_SDES">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Cryptage_SDES&theme=discord_old_blurple&show_owner=true" />
     </a><br>
-    <a href="https://github.com/BOULANGER-Charles-Antoine/Blackjack">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Blackjack&theme=discord_old_blurple&show_owner=true" />
+    <a href="https://github.com/BOULANGER-Charles-Antoine/Whiteout">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Whiteout&theme=discord_old_blurple&show_owner=true" />
     </a>
     &emsp;
     <a href="https://github.com/BOULANGER-Charles-Antoine/Spider-Solitaire">
