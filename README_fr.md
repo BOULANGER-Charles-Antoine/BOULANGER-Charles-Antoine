@@ -98,9 +98,9 @@
     <a href="https://github.com/BOULANGER-Charles-Antoine/Cryptage_SDES">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Cryptage_SDES&theme=discord_old_blurple&show_owner=true" />
     </a><br>
-    <a href="https://github.com/BOULANGER-Charles-Antoine/Whiteout">
+    <!--<a href="https://github.com/BOULANGER-Charles-Antoine/Whiteout">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Whiteout&theme=discord_old_blurple&show_owner=true" />
-    </a>
+    </a>-->
     &emsp;
     <a href="https://github.com/BOULANGER-Charles-Antoine/Spider-Solitaire">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Spider-Solitaire&theme=discord_old_blurple&show_owner=true" />
