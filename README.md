@@ -25,13 +25,13 @@
   ## 😃 About me
   <img align="right" alt="GIF" src="Images/Gif_GameDev.gif" width="300px"/>
   
-  I am Charles-Antoine BOULANGER, I am a programmer intern at Behaviour interactive in Montreal. This internship will allow me to validate my double degree of computer engineer at EILCO (Ecole d'Ingénieurs du Littoral-Côte-d'Opale) and my master’s degree in computer progression video games at the University of Sherbrooke.
+  I am Charles-Antoine BOULANGER, a game programmer at Behaviour interactive in Montreal. Graduated in 2024 from a double degree in computer engineering at EILCO (École d'Ingénieurs du Littoral-Côte-d'Opale) and a master’s degree in computer science and video games at the University of Sherbrooke.
   
   - 🎮 Passionate about science and video games, whether playing them.
   - 😉 Or coding them.
   - 🖥️ Currently my personal project is an Influence Map system on Unreal Engine.
   - 👨‍💻 Most of my projects are available on Github.
-  - 📝 Checkout my <a href="https://drive.google.com/file/d/1dX3RAeBv3gjTaG9tSJGfO1MGCWmJ3v2p/view?usp=sharing">resume</a>.
+  - 📝 Checkout my <a href="https://drive.google.com/file/d/1v7Dg21SVul3Kdfn3tlQMKIYJu7XL4L2B/view?usp=drive_link">resume</a>.
   - 🎯 When I am free, I do archery.
   <br>
  
@@ -39,17 +39,15 @@
 
 ## 💻 Skills
 
+  ![Unity](https://img.shields.io/badge/unity-★-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+  ![Unreal Engine](https://img.shields.io/badge/unrealengine-★★★★-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+  
   ![C](https://img.shields.io/badge/c-★★★★-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-★★-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-★★★★★-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-★★★★-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
   ![Java](https://img.shields.io/badge/java-★★★-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/python-★-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
-  ![HTML5](https://img.shields.io/badge/html5-★★★-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-★★★-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-★★★-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-★★★-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
@@ -58,15 +56,18 @@
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
   ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white)
   
-  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&style=flat&logo=stack-overflow&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+  ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=flat&logo=Perforce&logoColor=white)
   
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
   ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
   ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+  ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white)
 
 ---
 
@@ -74,10 +75,9 @@
 
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
   
-  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
-  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+  ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 
 ---
 
@@ -98,9 +98,9 @@
     <a href="https://github.com/BOULANGER-Charles-Antoine/Cryptage_SDES">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Cryptage_SDES&theme=discord_old_blurple&show_owner=true" />
     </a><br>
-    <a href="https://github.com/BOULANGER-Charles-Antoine/Whiteout">
+    <!--<a href="https://github.com/BOULANGER-Charles-Antoine/Whiteout">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Whiteout&theme=discord_old_blurple&show_owner=true" />
-    </a>
+    </a>-->
     &emsp;
     <a href="https://github.com/BOULANGER-Charles-Antoine/Spider-Solitaire">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BOULANGER-Charles-Antoine&repo=Spider-Solitaire&theme=discord_old_blurple&show_owner=true" />
