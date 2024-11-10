@@ -25,31 +25,29 @@
   ## 😃 À propos de moi
   <img align="right" alt="GIF" src="Images/Gif_GameDev.gif" width="300px"/>
 
-  Je suis Charles-Antoine BOULANGER, et je suis actuellement programmeur stagiaire chez Behaviour Interactive à Montréal. Ce stage me permettra de valider mon double diplôme d'ingénieur informatique à l'EILCO (École d'Ingénieurs du Littoral-Côte-d'Opale) et de maîtrise en informatique cheminement jeux vidéo à l'université de Sherbrooke.
+  Je suis Charles-Antoine BOULANGER, actuellement programmeur de jeux chez Behaviour Interactive à Montréal. Diplômé en 2024 d'un double-diplôme d'ingénieur informatique à l'EILCO (École d'Ingénieurs du Littoral-Côte-d'Opale) et d'une maîtrise en informatique cheminement jeux vidéo à l'université de Sherbrooke.
   
   - 🎮 Passionné de sciences et de jeux vidéo, que ce soit en y jouant,
   - 😉 Ou en les codant.
   - 🖥️ Actuellement mon projet personnel est un système d'Influence Map sous Unreal Engine.
   - 👨‍💻 La plupart de mes projets sont disponible sur Github.
-  - 📝 N'hésitez pas à consulter mon <a href="https://drive.google.com/file/d/1dX3RAeBv3gjTaG9tSJGfO1MGCWmJ3v2p/view?usp=sharing">CV</a>.
+  - 📝 N'hésitez pas à consulter mon <a href="https://drive.google.com/file/d/1DkkjXR0BOCzGc0BAiRvAUoZ4CTOUcJRj/view?usp=drive_link">CV</a>.
   - 🎯 Quand j'ai du temps libre, je pratique le tir à l'arc.
   <br>
  
 ---
 
 ## 💻 Compétences
-
+  
+  ![Unity](https://img.shields.io/badge/unity-★-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+  ![Unreal Engine](https://img.shields.io/badge/unrealengine-★★★★-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+  
   ![C](https://img.shields.io/badge/c-★★★★-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-★★-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-★★★★★-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-★★★★-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
   ![Java](https://img.shields.io/badge/java-★★★-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/python-★-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
-  ![HTML5](https://img.shields.io/badge/html5-★★★-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-★★★-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-★★★-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-★★★-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
@@ -58,26 +56,28 @@
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
   ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white)
   
-  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&style=flat&logo=stack-overflow&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+  ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=flat&logo=Perforce&logoColor=white)
   
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
   ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
   ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+  ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white)
+  
 ---
 
 ## 📝 IDEs / Editeurs / Moteurs de Jeu
 
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
   
-  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
-  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+  ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 
 ---
 
